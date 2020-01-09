@@ -1,0 +1,51 @@
+{
+    "app": {
+        "name": "Server Guide",
+        "color": "#008577"
+    },
+    
+    
+    "ads":{
+        "bannerId": "",
+        "interstitialId": ""
+    },
+    
+    
+    "content": {
+        "page1": {
+          "title": "About Call of Duty Mobile",
+          "url": "https://aquila08.github.io/COD/Menu1.htm",
+          "img": "https://www.freepngimg.com/thumb/light/78037-color-splash-explosion-powder-ink-png-download-free.png"
+        },
+        "page2": {
+          "title": "Call of Duty Mobile settings",
+          "url": "https://aquila08.github.io/COD/Menu2.htm",
+          "img": "https://www.freepngimg.com/thumb/light/78037-color-splash-explosion-powder-ink-png-download-free.png"
+        },
+        "page3": {
+          "title": "Call of Duty Mobile maps",
+          "url": "https://aquila08.github.io/COD/Menu3.htm",
+          "img": "https://www.freepngimg.com/thumb/light/78037-color-splash-explosion-powder-ink-png-download-free.png"
+        },
+        "page4": {
+          "title": "Call of Duty Mobile game modes",
+          "url": "https://aquila08.github.io/COD/Menu4.htm",
+          "img": "https://www.freepngimg.com/thumb/light/78037-color-splash-explosion-powder-ink-png-download-free.png"
+        },
+        "page5": {
+          "title": "Call of Duty Mobile loadouts",
+          "url": "https://aquila08.github.io/COD/Menu5.htm",
+          "img": "https://www.freepngimg.com/thumb/light/78037-color-splash-explosion-powder-ink-png-download-free.png"
+        },
+        "page6": {
+          "title": "Call of Duty Mobile characters",
+          "url": "https://aquila08.github.io/COD/Menu6.htm",
+          "img": "https://www.freepngimg.com/thumb/light/78037-color-splash-explosion-powder-ink-png-download-free.png"
+        },
+        "page9": {
+          "title": "Good Luck!",
+          "url": "https://aquila08.github.io/COD/Menu9.html",
+          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+        }
+      }
+}
